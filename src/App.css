@@ -1,0 +1,29 @@
+.futura-font {
+  font-family: "Futura", "Century Gothic", "Avant Garde", -apple-system,
+    BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.futura-light {
+  font-family: "Futura", "Century Gothic", "Avant Garde", -apple-system,
+    BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+.custom-orange-bg {
+  background-color: #ff7b00 !important;
+}
+
+.custom-orange-hover:hover {
+  background-color: #e66b00 !important;
+}
+
+.custom-orange-text {
+  color: #ff7b00 !important;
+}
+
+.custom-orange-light-bg {
+  background-color: #fff0e6 !important;
+}
